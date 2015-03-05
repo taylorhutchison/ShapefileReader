@@ -1,0 +1,12 @@
+C:\csharp\ShapefileReader\ShapefileReader\bin\Debug\ShapefileReader.exe.config
+C:\csharp\ShapefileReader\ShapefileReader\bin\Debug\ShapefileReader.exe
+C:\csharp\ShapefileReader\ShapefileReader\bin\Debug\ShapefileReader.pdb
+C:\csharp\ShapefileReader\ShapefileReader\obj\Debug\ShapefileManager.csprojResolveAssemblyReference.cache
+C:\csharp\ShapefileReader\ShapefileReader\obj\Debug\ShapefileReader.exe
+C:\csharp\ShapefileReader\ShapefileReader\obj\Debug\ShapefileReader.pdb
+C:\csharp\ShapefileManager\ShapefileReader\bin\Debug\ShapefileReader.exe.config
+C:\csharp\ShapefileManager\ShapefileReader\obj\Debug\ShapefileReader.exe
+C:\csharp\ShapefileManager\ShapefileReader\obj\Debug\ShapefileReader.pdb
+C:\csharp\ShapefileManager\ShapefileReader\bin\Debug\ShapefileReader.exe
+C:\csharp\ShapefileManager\ShapefileReader\bin\Debug\ShapefileReader.pdb
+C:\csharp\ShapefileManager\ShapefileReader\obj\Debug\ShapefileManager.csprojResolveAssemblyReference.cache
