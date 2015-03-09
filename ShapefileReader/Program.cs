@@ -1,8 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Linq;
-using System.Collections;
-using System.Collections.Generic;
 using GISData.GeometryTypes;
 using GISData.ShapefileFormat;
 using GISData.ShapefileOutput;
@@ -25,6 +22,7 @@ namespace GISData
                 ShapefileReader shpfile = ShapefileReaderManager.ReadShapefile(@"C:\csharp\ShapefileManager\TestData\Polygon");
                 var Geometries = ShapefileGeometeryFactory.ReaderToGeometryCollection(shpfile);
                 ShapefileInfoOutput.DisplayGeometryRecords(Geometries);
+                Console.WriteLine("Hello");
             }
             catch (Exception e)
             {

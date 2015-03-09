@@ -1,6 +1,0 @@
-C:\csharp\ShapefileReader\ShapefileReader\bin\Release\ShapefileReader.exe.config
-C:\csharp\ShapefileReader\ShapefileReader\bin\Release\ShapefileReader.exe
-C:\csharp\ShapefileReader\ShapefileReader\bin\Release\ShapefileReader.pdb
-C:\csharp\ShapefileReader\ShapefileReader\obj\Release\ShapefileReader.exe
-C:\csharp\ShapefileReader\ShapefileReader\obj\Release\ShapefileReader.pdb
-C:\csharp\ShapefileReader\ShapefileReader\obj\Release\ShapefileReader.csprojResolveAssemblyReference.cache
